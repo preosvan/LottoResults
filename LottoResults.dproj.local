@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.556,E:\DelphiProjects\_Freelance\LottoResults\LottoConst.pas=E:\DelphiProjects\_Freelance\LottoResults\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.795,C:\Users\preos\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\DelphiProjects\_Freelance\LottoResults\LottoResults.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,=E:\DelphiProjects\_Freelance\LottoResults\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,=E:\DelphiProjects\_Freelance\LottoResults\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.747,C:\Users\preos\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\DelphiProjects\_Freelance\LottoResults\MainFrm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.376,E:\DelphiProjects\_Freelance\LottoResults\LottoModelUnit.pas=E:\DelphiProjects\_Freelance\LottoResults\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.812,=C:\Users\preos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.747,C:\Users\preos\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\DelphiProjects\_Freelance\LottoResults\MainFrm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,E:\DelphiProjects\_Freelance\LottoResults\Unit1.pas=E:\DelphiProjects\_Freelance\LottoResults\LottoControllers.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,E:\DelphiProjects\_Freelance\LottoResults\Unit1.pas=E:\DelphiProjects\_Freelance\LottoResults\ConfigUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.752,E:\DelphiProjects\_Freelance\LottoResults\LottoConfig.pas=E:\DelphiProjects\_Freelance\LottoResults\ConfigUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.370,E:\DelphiProjects\_Freelance\LottoResults\LottoControllerUnit.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,=E:\DelphiProjects\_Freelance\LottoResults\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,=E:\DelphiProjects\_Freelance\LottoResults\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,=E:\DelphiProjects\_Freelance\LottoResults\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.463,E:\DelphiProjects\_Freelance\LottoResults\Unit1.pas=E:\DelphiProjects\_Freelance\LottoResults\LottoControllerUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>
